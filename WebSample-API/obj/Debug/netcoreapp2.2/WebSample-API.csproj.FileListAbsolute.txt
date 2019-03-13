@@ -1,0 +1,14 @@
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\bin\Debug\netcoreapp2.2\WebSample-API.deps.json
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\bin\Debug\netcoreapp2.2\WebSample-API.runtimeconfig.json
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\bin\Debug\netcoreapp2.2\WebSample-API.runtimeconfig.dev.json
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\bin\Debug\netcoreapp2.2\WebSample-API.dll
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\bin\Debug\netcoreapp2.2\WebSample-API.pdb
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.csprojAssemblyReference.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.csproj.CoreCompileInputs.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.RazorAssemblyInfo.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.RazorAssemblyInfo.cs
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.AssemblyInfoInputs.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.AssemblyInfo.cs
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.RazorTargetAssemblyInfo.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.dll
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\ASPCore\WebSample\WebSample-API\obj\Debug\netcoreapp2.2\WebSample-API.pdb
