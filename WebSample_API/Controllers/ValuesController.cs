@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebSample.API.Data;
+using WebSample_API.Data;
 
 namespace WebSample.API.Controllers
 {
