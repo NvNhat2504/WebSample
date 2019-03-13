@@ -1,0 +1,6 @@
+# IDE - VSCode
+.vscode/*
+
+# Bin Debug
+obj
+bin
