@@ -1,4 +1,4 @@
-namespace WebSample.API.Models
+namespace WebSample_API.Models
 {
     public class Value
     {
